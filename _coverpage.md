@@ -1,4 +1,3 @@
-# docsify website sample <small>0.0.1</small>
+#  黄卓昱的备用网站
 
-<a href="https://github.com/lexmin0412/docsify-website-sample">Github</a>
-<a href="#README">Get Started</a>
+<a href="#README">开始浏览</a>
